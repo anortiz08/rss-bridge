@@ -1,5 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home/resxdir/apps.ortiz.io/rss-bridge/
-    - /bin/cp * $DEPLOYPATH
